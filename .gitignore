@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/inputValidator/build/
+/inputValidator/build/intermediates/javac/debug/classes/

@@ -9,7 +9,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08e51bb1-ffc7-4c8f-b970-5b907730bec3" name="Changes" comment="" />
+    <list default="true" id="08e51bb1-ffc7-4c8f-b970-5b907730bec3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +42,7 @@
     <property name="android-custom-viewC:/Users/bahod/AndroidStudioProjects/FormLayouts/inputValidator/src/main/java/com/example/inputvalidator/EdittextValidator.java_EdittextValidator_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewC:/Users/bahod/AndroidStudioProjects/FormLayouts/inputValidator/src/main/java/com/example/inputvalidator/EdittextValidator.java_SELECTED" value="EdittextValidator" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dialogs_Lib" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
