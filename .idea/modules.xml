@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InputValidator.iml" filepath="$PROJECT_DIR$/.idea/modules/InputValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InputValidator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InputValidator.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InputValidator.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InputValidator.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InputValidator.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InputValidator.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InputValidator.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InputValidator.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inputValidator/InputValidator.inputValidator.iml" filepath="$PROJECT_DIR$/.idea/modules/inputValidator/InputValidator.inputValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inputValidator/InputValidator.inputValidator.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/inputValidator/InputValidator.inputValidator.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inputValidator/InputValidator.inputValidator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inputValidator/InputValidator.inputValidator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inputValidator/InputValidator.inputValidator.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/inputValidator/InputValidator.inputValidator.unitTest.iml" />
+    </modules>
+  </component>
+</project>
